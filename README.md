@@ -17,7 +17,7 @@ El programa desarrollado es un software de gestión de auto compra de supermerca
 A través de este software, el cliente puede hacer su compra en la tienda física sin necesidad de que le atienda un cajero. A la hora de comprar, el cliente debe iniciar sesión introduciendo su DNI para poder acceder a la interfaz de auto compra.
 El software proporciona un control sobre todas las compras que se realicen, ya sean efectuadas por los trabajadores o por los clientes mediante auto compra. También controlara los productos, las marcas de estos y los proveedores que las distribuyen.
 
-Donde se almacenaban todos los objetos declarados era en una base de datos MySQL.
+Donde se almacenaban todos los objetos declarados era en una base de datos MySQL pública la cual por problemas económicos ya no existe.
 
 ## Cómo funciona
 
