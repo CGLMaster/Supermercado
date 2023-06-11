@@ -19,10 +19,6 @@ El software proporciona un control sobre todas las compras que se realicen, ya s
 
 Donde se almacenaban todos los objetos declarados era en una base de datos MySQL pública la cual por problemas económicos ya no existe.
 
-## Cómo funciona
-
-Para demostrar su funcionamiento dejo un video de la demo del proyecto en la cual se ven todos los aspectos que se pueden realizar.
-
 ## Propietario
 * **Alberto Alejandro** Rivas Fernández
 * **Carlos** Gómez López
