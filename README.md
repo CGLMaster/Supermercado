@@ -19,6 +19,14 @@ El software proporciona un control sobre todas las compras que se realicen, ya s
 
 Donde se almacenaban todos los objetos declarados era en una base de datos MySQL pública la cual por problemas económicos ya no existe.
 
+## Interfaces
+
+Al no tener un vídeo en el que se ve su funcionamiento, solo puedo otorgar capturas de algunas interfaces que conformaban el proyecto
+
+<img src="./img/Intro.png" height="200">
+<img src="./img/productos.png" height="200">
+<img src="./img/Carrito.png" height="200">
+
 ## Propietario
 * **Alberto Alejandro** Rivas Fernández
 * **Carlos** Gómez López
