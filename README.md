@@ -47,7 +47,7 @@ Esta interfaz tiene un botón de vuelta a la pestaña inicial en la esquina supe
 
 Una vez añadida toda la lista se pulsa sobre el botón de pagar, en éste se validará si existe el id del producto o no, y en caso de que exista que haya la cantidad solicitada. En caso de que uno de éstos factores sucedan, no te permitirá realizar el pago indicándote el motivo. En caso de que todo se cumpla, te permitirá elegir el método de pago (tarjeta o efectivo) y proceder a ello para finalizar la compra.
 
-## Propietario
+## Propietarios primer cuatrimestre
 * **Alberto Alejandro** Rivas Fernández
 * **Carlos** Gómez López
 * **Carlos** Forriol Molina
@@ -56,3 +56,13 @@ Una vez añadida toda la lista se pulsa sobre el botón de pagar, en éste se va
 * **Mario** González de Santos
 * **Miguel** Marcos Asenjo
 * **Pablo** Gamo González
+
+## Propietarios segundo cuatrimestre
+* **Alberto Alejandro** Rivas Fernández
+* **Bryan Eduardo** Córdova Ascurra
+* **Carlos** Gómez López
+* **Carlos** Forriol Molina
+* **Javier** de Hoyos Pino
+* **Mario** González de Santos
+* **Pablo** Gamo González
+* **Rubén** Martín Castro
